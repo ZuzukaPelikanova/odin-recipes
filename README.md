@@ -1,0 +1,1 @@
+A webpage displaying my favorite recipes, to help me with the everyday struggle of deciding what to cook. I'm practising basic HTML skills as described in the Project Odin curriculum.
